@@ -17,15 +17,24 @@
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
         android:layout_centerHorizontal="true"
+<<<<<<< HEAD
         android:layout_marginStart="2dp"
         android:layout_marginLeft="2dp"
         android:layout_marginTop="9dp"
         android:layout_marginEnd="27dp"
         android:layout_marginRight="27dp"
+=======
+        android:layout_marginStart="13dp"
+        android:layout_marginLeft="13dp"
+        android:layout_marginTop="9dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+>>>>>>> splash screen
         app:srcCompat="@drawable/logo" />
 
     <Button
         android:id="@+id/searchButton"
+<<<<<<< HEAD
         android:layout_width="112dp"
         android:layout_height="61dp"
         android:layout_alignParentTop="true"
@@ -69,6 +78,21 @@
         android:layout_marginEnd="148dp"
         android:layout_alignParentRight="true"
         android:layout_marginRight="148dp" />
+=======
+        android:layout_width="183dp"
+        android:layout_height="79dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="279dp"
+        android:layout_marginEnd="87dp"
+        android:layout_marginRight="87dp"
+        android:background="#FF9800"
+        android:text="@string/searchButtonText"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp" />
+>>>>>>> splash screen
 
     <Button
         android:id="@+id/vendorButton"
